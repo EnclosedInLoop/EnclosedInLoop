@@ -47,7 +47,7 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnclosedInLoop&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-gray-95.vercel.app/api?username=EnclosedInLoop&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" alt="GitHub Stats" />
 </div>
 
 <br/>
